@@ -1,12 +1,12 @@
 [![Discord Presence](https://discord.c99.nl/widget/theme-1/691648449967554590.png)](https://discord.com/invite/f5EZpVHeYf)
  
 # ⚡ Skills
--Python
--HTML/CSS
--JavaScript
--PHP
--Database (SQLite/MySQL)
--Java
+- Python
+- HTML/CSS
+- JavaScript
+- PHP
+- Database (SQLite/MySQL)
+- Java
 
 # 🛠️ Projects
 
