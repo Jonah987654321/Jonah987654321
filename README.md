@@ -1,9 +1,12 @@
 [![Discord Presence](https://discord.c99.nl/widget/theme-1/691648449967554590.png)](https://discord.com/invite/f5EZpVHeYf)
  
-# 👤 About Me
-### Hi, I am Jonah
-Fullstack Developer  
-Python, JS/HTML/CSS, PHP, Java
+# ⚡ Skills
+-Python
+-HTML/CSS
+-JavaScript
+-PHP
+-Database (SQLite/MySQL)
+-Java
 
 # 🛠️ Projects
 
