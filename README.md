@@ -20,11 +20,11 @@
 
 ### ⬆️ GitHub Top langs 
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pythonwolf7734&layout=compact&theme=onedark)](https://github.com/Pythonwolf7734)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jonah123456789&layout=compact&theme=onedark)](https://github.com/Jonah123456789)
 
 ### ✨ GitHub Stats
   
-  [![Status](https://github-readme-stats.vercel.app/api?username=Pythonwolf7734&show_icons=true&hide_border=true&theme=onedark)](https://github.com/Pythonwolf7734)
+  [![Status](https://github-readme-stats.vercel.app/api?username=Jonah123456789&show_icons=true&hide_border=true&theme=onedark)](https://github.com/Jonah123456789)
 
 
 
