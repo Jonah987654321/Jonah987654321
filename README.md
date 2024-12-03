@@ -6,6 +6,6 @@
 - Contact me: **jonah@jo-dev.net**
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jonah987654321&theme=dracula&hide_border=true" height="250px">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jonah987654321&theme=dracula&show_icons=true&hide_border=true&layout=compact" height="250px">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jonah987654321&theme=dracula&hide_border=true" height="100px">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jonah987654321&theme=dracula&show_icons=true&hide_border=true&layout=compact" height="100px">
 </div>
