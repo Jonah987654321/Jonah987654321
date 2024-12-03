@@ -3,6 +3,7 @@
 ###
 
 <p align="left">
+  
 I am a **junior full-stack developer** based in **Germany**, specializing in web development. I create websites, web applications, and APIs for various use cases.
 
 Currently, I work part-time at a local web development company as a student, where I am involved in a variety of projects. In my free time, I also develop personal projects, such as:
