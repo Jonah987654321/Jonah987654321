@@ -39,7 +39,7 @@ I’ve also explored **pathfinding** and **search algorithms**, as well as **fun
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Jonah987654321&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="175" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=Jonah987654321&theme=dracula&border_radius=5&mode=weekly" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Jonah987654321&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false&order=2" height="175" alt="languages graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jonah987654321&radius=16&theme=dracula&area=true&order=5&bg_color=282A36" height="277" alt="activity-graph graph"  />
 </div>
