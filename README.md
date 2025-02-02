@@ -35,7 +35,7 @@ I’ve also explored **pathfinding** and **search algorithms**, as well as **fun
 ###
 
 <h2 align="left">My Stats</h2>
-
+(I removed my 2ndary email from my account and now most of my commits are no longer associated with my account 😭)
 ###
 
 <div align="center">
