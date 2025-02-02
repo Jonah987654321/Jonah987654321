@@ -35,8 +35,9 @@ I’ve also explored **pathfinding** and **search algorithms**, as well as **fun
 ###
 
 <h2 align="left">My Stats</h2>
-(I removed my 2ndary email from my account and now most of my commits are no longer associated with my account 😭)  
 
+####
+  
 <div align="center">
   <img src="https://github-readme-streak-stats-seven-azure.vercel.app/?user=Jonah987654321&theme=dracula&short_numbers=true&date_format=j%20M[%20Y]&mode=weekly&border_radius=5" alt="GitHub Streak" height="175"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Jonah987654321&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false&order=2" height="175" alt="languages graph"  />
